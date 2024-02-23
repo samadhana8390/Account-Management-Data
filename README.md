@@ -1,2 +1,1 @@
-[src/main/webapp/accfrom.html
-]([https://github.com/samadhana8390/Account-Management-Data](https://github.com/samadhana8390/Account-Management-Data)https://github.com/samadhana8390/Account-Management-Data)
+.[index file].(http://localhost:8080/accout/accfrom.html)
